@@ -1,0 +1,52 @@
+*{
+    font-family: "Karma", serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+section{
+ display:inline-block;
+ width: 290px;
+ vertical-align: top;
+ margin-left:10px;
+}
+img{
+    width: 100%;
+
+}
+header{
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 90px;
+    padding: 10px;
+    position: sticky;
+    background-color: beige;
+    box-shadow: 8px 8px 8px rgb(85, 104, 98);
+    display: flex;
+    top:0px;
+    justify-content: space-around;
+}
+.food {
+    margin-left: 500px;
+}
+.mail{
+    margin-left: 400px;
+}
+main {
+    margin: 0px 65px;
+}
+h3{
+    font-size: 22px;
+    font-weight:400;
+    margin: 8px 0px;
+    text-align: justify;
+    text-align-last: center;
+}
+p {
+    font-size:15px;
+    text-align: justify;
+    text-align-last: center;
+}
+div{
+    padding: 10px;
+}
